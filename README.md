@@ -5,4 +5,3 @@ Preview of the Project
 ![](images/2.PNG)
 ![](images/3.PNG)
 ![](images/4.PNG)
-# Diabetes-Prediction
