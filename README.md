@@ -57,4 +57,4 @@ The web application uses a Random Forest Classifier model to predict the likelih
 
 ## Author
 
-This project is developed by Aarchi Gandhi, Aman Sagar, Manas Kori, Ujjwal Agrawal.
+This project is developed by Aarchi Gandhi, Aman Sagar, Manas Kori and Ujjwal Agrawal.
