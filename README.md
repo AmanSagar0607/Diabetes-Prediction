@@ -1,4 +1,4 @@
-# DIABETES PREDICTION USING MACHINE LEARNING.
+# DIABETES PREDICTION USING MACHINE LEARNING
 
 This project is a web application that predicts the likelihood of a person having diabetes based on certain health metrics. The application is built using Python and Streamlit.
 
